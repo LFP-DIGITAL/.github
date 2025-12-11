@@ -1,0 +1,16 @@
+{
+  "name": "github_home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@octokit/rest": "18.12.0",
+    "@types/node": "25.0.0",
+    "typescript": "5.9.3"
+  }
+}

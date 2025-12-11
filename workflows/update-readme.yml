@@ -1,0 +1,34 @@
+name: Update Organization README
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    - cron: '0 0 * * *' # Tous les jours à minuit
+  workflow_dispatch: # Permet de lancer manuellement depuis l'interface
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install @octokit/rest
+
+      - name: Run Update Script
+        # GITHUB_TOKEN est fourni automatiquement par les Actions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx ts-node .github/profile/update-readme.ts
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: auto-update readme repos list"
+          file_pattern: README.md
