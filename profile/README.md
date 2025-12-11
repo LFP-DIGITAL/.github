@@ -7,11 +7,46 @@ Nous construisons des solutions numériques pour le football professionnel.
 
 ## 🧱 Backend & APIs
 
-
-
-*Aucun projet public dans cette catégorie pour le moment.*
-
-
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/slack-worker">
+        <img src="./../assets/slack-worker.png" alt="slack-worker" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <h3 align="center">
+        <a href="https://github.com/LFP-DIGITAL/slack-worker">slack-worker</a>
+      </h3>
+      <p align="center">
+         <code>TypeScript</code> · ⭐ 1
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/mpp-back">
+        <img src="./../assets/mpp-back.png" alt="mpp-back" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <h3 align="center">
+        <a href="https://github.com/LFP-DIGITAL/mpp-back">mpp-back</a>
+      </h3>
+      <p align="center">
+         <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/mpg-back">
+        <img src="./../assets/mpg-back.png" alt="mpg-back" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <h3 align="center">
+        <a href="https://github.com/LFP-DIGITAL/mpg-back">mpg-back</a>
+      </h3>
+      <p align="center">
+         <code>TypeScript</code> · ⭐ 1
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Frontend & Interfaces
 
