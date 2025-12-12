@@ -186,6 +186,12 @@ ${generateGrid(typesRepos)}
 
 ---
 *Dernière mise à jour automatique le : ${new Date().toLocaleDateString('fr-FR')}*
+
+<div align="right">
+  <a href="https://github.com/LFP-DIGITAL/.github/actions/workflows/update-readme.yml" style="text-decoration: none !important; border: none !important; background: #0969da !important; color: white !important; padding: 8px 16px !important; border-radius: 6px !important; font-weight: 600 !important; display: inline-block !important; cursor: pointer !important;">
+    🔄 Refresh
+  </a>
+</div>
 `;
 
   fs.writeFileSync(README_PATH, newContent);
