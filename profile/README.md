@@ -94,7 +94,7 @@ Nous construisons des solutions numériques pour le football professionnel.
         <a href="https://github.com/LFP-DIGITAL/back-tools-mpp">back-tools-mpp</a>
       </h3>
       <p align="center">
-         
+         <code>TypeScript</code>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -170,7 +170,7 @@ Nous construisons des solutions numériques pour le football professionnel.
         <a href="https://github.com/LFP-DIGITAL/back-mpp">back-mpp</a>
       </h3>
       <p align="center">
-         
+         <code>TypeScript</code>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -182,7 +182,7 @@ Nous construisons des solutions numériques pour le football professionnel.
         <a href="https://github.com/LFP-DIGITAL/back-mpg">back-mpg</a>
       </h3>
       <p align="center">
-         
+         <code>JavaScript</code>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -200,6 +200,30 @@ Nous construisons des solutions numériques pour le football professionnel.
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/back-modules-simple-job">
+        <img src="https://placehold.co/600x300/1e293b/FFF?text=back-modules-simple-job" alt="back-modules-simple-job" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <h3 align="center">
+        <a href="https://github.com/LFP-DIGITAL/back-modules-simple-job">back-modules-simple-job</a>
+      </h3>
+      <p align="center">
+         
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/back-modules-fanbase-users">
+        <img src="https://placehold.co/600x300/1e293b/FFF?text=back-modules-fanbase-users" alt="back-modules-fanbase-users" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <h3 align="center">
+        <a href="https://github.com/LFP-DIGITAL/back-modules-fanbase-users">back-modules-fanbase-users</a>
+      </h3>
+      <p align="center">
+         <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/back-modules-couchbase">
         <img src="https://placehold.co/600x300/1e293b/FFF?text=back-modules-couchbase" alt="back-modules-couchbase" width="100%" style="border-radius: 6px;" />
       </a>
@@ -211,6 +235,8 @@ Nous construisons des solutions numériques pour le football professionnel.
          <code>TypeScript</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/back-messaging">
         <img src="https://placehold.co/600x300/1e293b/FFF?text=back-messaging" alt="back-messaging" width="100%" style="border-radius: 6px;" />
@@ -230,6 +256,18 @@ Nous construisons des solutions numériques pour le football professionnel.
       <br />
       <h3 align="center">
         <a href="https://github.com/LFP-DIGITAL/back-l1">back-l1</a>
+      </h3>
+      <p align="center">
+         <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/back-generator">
+        <img src="https://placehold.co/600x300/1e293b/FFF?text=back-generator" alt="back-generator" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <h3 align="center">
+        <a href="https://github.com/LFP-DIGITAL/back-generator">back-generator</a>
       </h3>
       <p align="center">
          <code>TypeScript</code>
@@ -270,12 +308,12 @@ Nous construisons des solutions numériques pour le football professionnel.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/LFP-DIGITAL/mpg_ui">
-        <img src="https://placehold.co/600x300/1e293b/FFF?text=mpg_ui" alt="mpg_ui" width="100%" style="border-radius: 6px;" />
+      <a href="https://github.com/LFP-DIGITAL/front_mpg_ui">
+        <img src="https://placehold.co/600x300/1e293b/FFF?text=front_mpg_ui" alt="front_mpg_ui" width="100%" style="border-radius: 6px;" />
       </a>
       <br />
       <h3 align="center">
-        <a href="https://github.com/LFP-DIGITAL/mpg_ui">mpg_ui</a>
+        <a href="https://github.com/LFP-DIGITAL/front_mpg_ui">front_mpg_ui</a>
       </h3>
       <p align="center">
          <code>TypeScript</code>
