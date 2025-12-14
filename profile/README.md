@@ -131,9 +131,18 @@ Nous construisons des solutions numériques pour le football professionnel.
       <div align="center" style="font-size: 1.25em; font-weight: 600; margin: 0.67em 0;">
         <a href="https://github.com/LFP-DIGITAL/front_mpg_ui" style="text-decoration: none !important; border: none !important; background: none !important; padding: 0 !important; margin: 0 !important; color: transparent !important; display: inline-block !important;"><span style="color: #6dc758 !important; font-size: 1.25em !important; font-weight: 600 !important; text-decoration: none !important; cursor: pointer !important; display: inline-block !important;">front_mpg_ui</span></a>
       </div>
-<p align="center"><code>TypeScript</code> · ⭐ 1</p>
+<p align="center"><code>TypeScript</code> · ⭐ 2</p>
     </td>
-    <td width='33%'></td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/front_mpg">
+        <img src="https://placehold.co/600x300/6dc758/FFF?text=front_mpg" alt="front_mpg" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <div align="center" style="font-size: 1.25em; font-weight: 600; margin: 0.67em 0;">
+        <a href="https://github.com/LFP-DIGITAL/front_mpg" style="text-decoration: none !important; border: none !important; background: none !important; padding: 0 !important; margin: 0 !important; color: transparent !important; display: inline-block !important;"><span style="color: #6dc758 !important; font-size: 1.25em !important; font-weight: 600 !important; text-decoration: none !important; cursor: pointer !important; display: inline-block !important;">front_mpg</span></a>
+      </div>
+<p align="center"><code>TypeScript</code></p>
+    </td>
     <td width='33%'></td>
   </tr>
 </table>
@@ -153,6 +162,15 @@ Nous construisons des solutions numériques pour le football professionnel.
 <p align="center"><code>TypeScript</code></p>
     </td>
     <td width="33%" valign="top">
+      <a href="https://github.com/LFP-DIGITAL/tests-frank">
+        <img src="https://placehold.co/600x300/1e293b/FFF?text=tests-frank" alt="tests-frank" width="100%" style="border-radius: 6px;" />
+      </a>
+      <br />
+      <div align="center" style="font-size: 1.25em; font-weight: 600; margin: 0.67em 0;">
+        <a href="https://github.com/LFP-DIGITAL/tests-frank" style="text-decoration: none !important; border: none !important; background: none !important; padding: 0 !important; margin: 0 !important; color: transparent !important; display: inline-block !important;"><span style="color: #0969da !important; font-size: 1.25em !important; font-weight: 600 !important; text-decoration: none !important; cursor: pointer !important; display: inline-block !important;">tests-frank</span></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/slack-worker">
         <img src="../assets/slack-worker.png" alt="slack-worker" width="100%" style="border-radius: 6px;" />
       </a>
@@ -162,6 +180,8 @@ Nous construisons des solutions numériques pour le football professionnel.
       </div>
 <p align="center"><code>TypeScript</code> · ⭐ 1</p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/generator">
         <img src="../assets/generator.png" alt="generator" width="100%" style="border-radius: 6px;" />
@@ -172,8 +192,6 @@ Nous construisons des solutions numériques pour le football professionnel.
       </div>
 <p align="center"><code>TypeScript</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/back-tools-mpp">
         <img src="../assets/back-tools-mpp.png" alt="back-tools-mpp" width="100%" style="border-radius: 6px;" />
@@ -194,6 +212,8 @@ Nous construisons des solutions numériques pour le football professionnel.
       </div>
 <p align="center"><code>JavaScript</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/back-tools-media-day">
         <img src="https://placehold.co/600x300/1e293b/FFF?text=media-day" alt="back-tools-media-day" width="100%" style="border-radius: 6px;" />
@@ -204,8 +224,6 @@ Nous construisons des solutions numériques pour le football professionnel.
       </div>
 <p align="center"><code>JavaScript</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/back-tools-l1">
         <img src="../assets/back-tools-l1.png" alt="back-tools-l1" width="100%" style="border-radius: 6px;" />
@@ -216,7 +234,6 @@ Nous construisons des solutions numériques pour le football professionnel.
       </div>
 <p align="center"><code>TypeScript</code></p>
     </td>
-    <td width='33%'></td>
     <td width='33%'></td>
   </tr>
 </table>
@@ -309,7 +326,7 @@ Nous construisons des solutions numériques pour le football professionnel.
 </table>
 
 ---
-*Dernière mise à jour automatique le : 12/12/2025*
+*Dernière mise à jour automatique le : 14/12/2025*
 
 <div align="right">
   <a href="https://github.com/LFP-DIGITAL/.github/actions/workflows/update-readme.yml" style="text-decoration: none !important; border: none !important; background: #0969da !important; color: white !important; padding: 8px 16px !important; border-radius: 6px !important; font-weight: 600 !important; display: inline-block !important; cursor: pointer !important;">
