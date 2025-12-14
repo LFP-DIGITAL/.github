@@ -125,7 +125,7 @@ Nous construisons des solutions numériques pour le football professionnel.
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/front_mpg_ui">
-        <img src="https://placehold.co/600x300/6dc758/FFF?text=front_mpg_ui" alt="front_mpg_ui" width="100%" style="border-radius: 6px;" />
+        <img src="../assets/front_mpg_ui.png" alt="front_mpg_ui" width="100%" style="border-radius: 6px;" />
       </a>
       <br />
       <div align="center" style="font-size: 1.25em; font-weight: 600; margin: 0.67em 0;">
@@ -135,7 +135,7 @@ Nous construisons des solutions numériques pour le football professionnel.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/LFP-DIGITAL/front_mpg">
-        <img src="https://placehold.co/600x300/6dc758/FFF?text=front_mpg" alt="front_mpg" width="100%" style="border-radius: 6px;" />
+        <img src="../assets/front_mpg.png" alt="front_mpg" width="100%" style="border-radius: 6px;" />
       </a>
       <br />
       <div align="center" style="font-size: 1.25em; font-weight: 600; margin: 0.67em 0;">
